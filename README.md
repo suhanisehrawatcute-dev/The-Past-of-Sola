@@ -17,9 +17,10 @@ The project uses chocolaty colours and a handwritten font to create a mood that 
 - An interface that focuses on the text and its mood.
 
 ### Screenshots
+<img width="1365" height="595" alt="image" src="https://github.com/user-attachments/assets/e048d8d7-8dfb-4f19-95a9-3b678bbd4546" />
 
-
-
+## Demo Link
+[https://suhanisehrawatcute-dev.github.io/The-Past-of-Sola/](url)
 ## Getting Started
 
 ### Dependencies
