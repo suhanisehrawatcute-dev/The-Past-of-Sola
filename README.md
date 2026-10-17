@@ -1,20 +1,20 @@
 # The Past of Sola
 
-An interactive prophecy display made from my in-progress book, Sola.
+An display for my prophecy which was made from my in-progress book, Sola.
 
 ## Description
 
-The Past of Sola is a web-based project that presents part of a story through an interactive interface that resembles an ancient record. Instead of showing the whole prophecy at once, the text appears one stanza at a time when you press a button. When you reach the last stanza, you can read the prophecy again from the start.
+The Past of Sola is a web-based project that shows prophecy in 6 different stanzas. The text appears one stanza at a time when you press the reveal button. When you reach the last stanza, the reveal button transforms into a re-read button, which you can click of you want to read it again. 
 
-The project uses chocolaty colours and a handwritten font to create a mood that fits the vibe of an old record. There are two fonts to symbolise that there was an added section written by someone different. It was built with HTML, CSS and JavaScript.
+This project uses 2 handwritten fonts to create a mood that fits the vibe of an old town record. There are two fonts to symbolise that there was an added section written by someone different. It was built using HTML, CSS and JavaScript.
 
 ## Features
 
-- Interactive reveal of the prophecy one stanza at a time.
+- Interactive reveal of the prophecy.
 
-- A button that switches from **Reveal** to **Re-read** when the last stanza is shown.
+- A button that switches from reveal to re-read when the last stanza is shown.
 
-- An interface that focuses on the text and its mood.
+- An interface that focuses on the text and its ambience.
 
 ### Screenshots
 <img width="1365" height="595" alt="image" src="https://github.com/user-attachments/assets/e048d8d7-8dfb-4f19-95a9-3b678bbd4546" />
@@ -25,9 +25,8 @@ The project uses chocolaty colours and a handwritten font to create a mood that 
 
 ### Dependencies
 
-- A web browser, such as Google Chrome, Firefox or Safari.
-
-- No external JavaScript libraries are required.
+- A modern web browser, such as Google Chrome, Firefox or Safari.
+- If wanting to edit the code, a code editor is needed, such as VS.
 
 ### Installing
 
@@ -47,11 +46,11 @@ The project uses chocolaty colours and a handwritten font to create a mood that 
 
 3. Read the opening stanza.
 
-4. Click **Reveal** to display the stanza.
+4. Click reveal to display the stanza.
 
-5. Continue until the final stanza appears.
+5. Continue until the final one appears.
 
-6. Click **Re-read** to return to the beginning.
+6. Click re-read to return to the beginning.
 
 ## Help
 
