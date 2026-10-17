@@ -1,5 +1,6 @@
 
 body {
+    margin: 0;
     text-align: center;
     background-color: #783511;
     color: #4A3022;
@@ -25,11 +26,14 @@ p {
 }
 .script {
     max-width: 750px;
-    margin: 50px auto;
+    margin: 10px auto;
     padding: 40px 25px;
     background-color: #E8D5A3;
     width: 90%;
-    min-height: 400px;
+    min-height: 350px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
 }
 
 .script p{
@@ -40,7 +44,7 @@ p {
     left: 50%;
     transform: translateX(-50%);
     display: block;
-    padding: 8px 20px;
+    padding: 6px 18px;
     font-size: 14px;
     width: auto;
     background-color: #E8D5A3;

@@ -15,7 +15,7 @@ continueButton.addEventListener("click", function() {
 
         currentStanza = 0;
         stanzas[currentStanza].style.display = "block";
-        continueButton.textContent = "Continue";
+        continueButton.textContent = "Reveal";
         return;
     }
 
@@ -26,6 +26,6 @@ continueButton.addEventListener("click", function() {
     stanzas[currentStanza].style.display = "block";
 
     if (currentStanza === stanzas.length - 1) {
-        continueButton.textContent = "Restart";
+        continueButton.textContent = "Re-read";
     }
 });
