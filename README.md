@@ -1,16 +1,16 @@
 # The Past of Sola
 
-A display for my prophecy, which was made from my in-progress book, Sola.
+A display for my prophecy taken from my in-progress book, Sola.
 
 ## Description
 
-The Past of Sola is a web-based project that shows prophecy in 6 different stanzas. The text appears one stanza at a time when you press the reveal button. When you reach the last stanza, the reveal button transforms into a re-read button, which you can click if you want to read it again. 
+The Past of Sola is a project that shows a prophecy in 6 different parts. The text appears one part at a time when you press the reveal button. When you reach the last bit, the reveal button transforms into a re-read button. If you click it, it will take you back to the first part. 
 
-This project uses 2 fonts to create a mood that fits the vibe of an old town record. There are two fonts to show that there was an added section written by someone different. (This follows the lore of the book.) It was built using HTML, CSS and JavaScript.
+This project uses 2 fonts to create a mood that fits the vibe of an old town record. There are two fonts to show that there was an added section written by someone different. (These things fit the lore of the story.) It was built using HTML, CSS and JavaScript.
 
 ## Features
 
-- Interactive reveal.
+- Interactive reveal of the prophecy.
 
 - A button that switches from reveal to re-read when the last part is shown.
 
@@ -23,8 +23,8 @@ This project uses 2 fonts to create a mood that fits the vibe of an old town rec
 
 ### Dependencies
 
-- A web browser
-- If wanting to edit the code, a code editor is needed, such as VS.
+- A web browser.
+- If you want to edit the code, a code editor is needed, such as VS Code.
 
 ### Installing
 
@@ -44,7 +44,7 @@ This project uses 2 fonts to create a mood that fits the vibe of an old town rec
 
 3. Read the opening part.
 
-4. Click reveal to display the parts.
+4. Click reveal to display the part.
 
 5. Continue until the final one appears.
 
@@ -54,6 +54,6 @@ This project uses 2 fonts to create a mood that fits the vibe of an old town rec
 
 - **The prophecy does not appear:** Check that the HTML contains the prophecy paragraphs and that the JavaScript file is linked correctly.
 
-- **The Reveal button does not work:** Check the browser console for JavaScript errors. And ensure the button's ID matches the one used in the JavaScript. (The exact same thing happened to me too.)
+- **The Reveal button does not work:** Check the browser console for JavaScript errors. Ensure the button's ID matches the one used in the JavaScript. The exact same thing happened to me. If it still doesn't work, check it again. Do not trust yourself!! :)
 
 - **The styling is missing:** Check that the CSS file is linked correctly in the HTML document.
